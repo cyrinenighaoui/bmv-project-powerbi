@@ -7,7 +7,6 @@ This project analyzes the **BMW premium car market** using **Power BI**, with th
 The dashboard follows a **clear analytical progression**:
 1. Market overview
 2. Opportunity detection
-3. Decision-oriented interpretation
 
 It is designed to demonstrate **data analysis, business reasoning, and visualization best practices**.
 
@@ -64,20 +63,6 @@ It is designed to demonstrate **data analysis, business reasoning, and visualiza
 
 🧭 Focus on identifying where value exists relative to usage.
 
----
-
-### 🎯 Page 3 — Decision-Oriented Interpretation
-**Purpose:** Support final decision-making
-
-**Key element:**
-- Scatter plot:
-  - X = Average mileage
-  - Y = Average price
-  - Bubble size = Premium Index
-
-Each point represents an **aggregated age segment**, enabling **value vs usage arbitrage analysis**.
-
-🧠 Emphasis on interpretation rather than exploration.
 
 ---
 
@@ -114,22 +99,6 @@ Each point represents an **aggregated age segment**, enabling **value vs usage a
 
 ---
 
-## 💼 Why This Project Matters
-
-This project demonstrates:
-- Analytical reasoning
-- KPI construction
-- Market segmentation
-- Decision-oriented visualization
-- Ability to translate data into **business insights**
-
-It is suitable for:
-- Data Analyst roles
-- Business Analyst roles
-- Portfolio presentation
-- Technical interviews
-
----
 
 ## 📷 Preview
 
@@ -137,5 +106,6 @@ It is suitable for:
 <img width="1326" height="746" alt="image" src="https://github.com/user-attachments/assets/364370e0-04af-44be-8d2a-2a232f822642" />
 
 ---
+
 
 
